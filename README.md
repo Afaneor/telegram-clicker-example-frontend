@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## You can find full review of the project on [youtube](https://www.youtube.com/watch?v=6mj9x5bx6z0) and backend on [here](https://github.com/Afaneor/telegram-clicker-example)
+
 
 ## Available Scripts
 
